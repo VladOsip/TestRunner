@@ -1,6 +1,6 @@
 # Custom C# Test Runner
 ## Overview ##
-This is a simple test runner built from scratch in C#. It uses custom attributes to discover and execute test methods within the same assembly, and reports the results to both the console and a text file. The project demonstrates basic test discovery, execution, error handling, and summary reporting, without using any existing testing frameworks.
+This is a simple test runner built from scratch in C#. It uses custom attributes to discover and execute test methods within the same assembly, and reports the results to both the console and a text file. The project doesn't use any existing testing frameworks.
 
 ## How It Works
 ### Attributes
